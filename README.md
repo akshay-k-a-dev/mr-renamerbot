@@ -24,7 +24,7 @@ This is a multi-purpose Telegram bot that provides various functionalities inclu
 
 You can easily deploy the bot to Heroku by clicking the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Akshay-code-space/mr-renamerbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshay-code-space/mr-renamerbot)
 
 ### Local Server
 
