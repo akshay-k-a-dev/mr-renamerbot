@@ -37,7 +37,7 @@ To deploy the bot on your own server, follow these steps:
    - `UPDATE_CHANNEL`: A channel username (without @) used for ForceSubscribe.
    - `APP_ID` and `API_HASH`: Obtain these from [Telegram's website](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot).
 4. Set up these credentials in your environment variables or directly in the code.
-5. Run the bot script using `python main.py`.
+5. Run the bot script using `python3 bot.py`.
 
 ## Support
 
