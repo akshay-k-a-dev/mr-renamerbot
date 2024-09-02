@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/Akshay-code-space/mr-renamerbot/stargazers">
-    <img src="https://img.shields.io/github.com/Akshay-code-space/mr-renamerbot?style=social">
+    <img src="https://img.shields.io/github.com/akshay-k-a-dev/mr-renamerbot?style=social">
   </a>
-  <a href="https://github.com/Akshay-code-space/mr-renamerbot/fork">
+  <a href="https://github.com/akshay-k-a-dev/mr-renamerbot/fork">
     <img src="https://img.shields.io/github.com/Akshay-code-space/mr-renamerbot?label=Fork&style=social">
   </a>
 </p>
